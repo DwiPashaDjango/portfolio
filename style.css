@@ -176,9 +176,9 @@ section {
   margin: auto 0;
 }
 
-.section__pic-container img {
+/* .section__pic-container img {
   padding-left: 20px;
-}
+} */
 
 .section__text {
   align-self: center;
